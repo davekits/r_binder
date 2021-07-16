@@ -1,3 +1,5 @@
+library("tm")
+library("dplyr")
 install.packages("tidyverse")
 install.packages("rmarkdown")
 install.packages("httr")
