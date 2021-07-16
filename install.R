@@ -1,4 +1,3 @@
-library("tm")
 library("dplyr")
 install.packages("tidyverse")
 install.packages("rmarkdown")
